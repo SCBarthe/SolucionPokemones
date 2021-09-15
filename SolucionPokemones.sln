@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pokemones", "Pokemones\Pokemones.csproj", "{AE005B78-C089-420A-9BE5-9326A06D1823}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "modelo", "modelo\modelo.csproj", "{640E0E63-ECF3-4B60-AEE1-C7B733C18A1F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "negocio", "ClassLibrary1\negocio.csproj", "{879795E1-3801-4D4F-859A-ACBC53419663}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE005B78-C089-420A-9BE5-9326A06D1823}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE005B78-C089-420A-9BE5-9326A06D1823}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE005B78-C089-420A-9BE5-9326A06D1823}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE005B78-C089-420A-9BE5-9326A06D1823}.Release|Any CPU.Build.0 = Release|Any CPU
+		{640E0E63-ECF3-4B60-AEE1-C7B733C18A1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{640E0E63-ECF3-4B60-AEE1-C7B733C18A1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{640E0E63-ECF3-4B60-AEE1-C7B733C18A1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{640E0E63-ECF3-4B60-AEE1-C7B733C18A1F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{879795E1-3801-4D4F-859A-ACBC53419663}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{879795E1-3801-4D4F-859A-ACBC53419663}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{879795E1-3801-4D4F-859A-ACBC53419663}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{879795E1-3801-4D4F-859A-ACBC53419663}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3565EADC-5CB6-4748-AB78-7377B2F29074}
+	EndGlobalSection
+EndGlobal
